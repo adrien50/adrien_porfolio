@@ -34,17 +34,23 @@ In this ML problem, we will building a classification model as we have to predic
 Based on aspects of building location and construction, your goal is to predict the level of damage to buildings caused by the 2015 Gorkha earthquake in Nepal. The data was collected through surveys by Kathmandu Living Labs and the Central Bureau of Statistics, which works under the National Planning Commission Secretariat of Nepal.
 This survey is one of the largest post-disaster datasets ever collected, containing valuable information on earthquake impacts, household conditions, and socio-economic-demographic statistics.
 
-[Porto Seguro’s Safe Driver Prediction.](https://github.com/adrien50/Porto-Seguro-s-Safe-Driver-Prediction)
+# [Porto Seguro’s Safe Driver Prediction.](https://github.com/adrien50/Porto-Seguro-s-Safe-Driver-Prediction)
 
 Nothing ruins the thrill of buying a brand new car more quickly than seeing your new insurance bill. The sting’s even more painful when you know you’re a good driver. It doesn’t seem fair that you have to pay so much if you’ve been cautious on the road for years.
 Porto Seguro, one of Brazil’s largest auto and homeowner insurance companies, completely agrees. Inaccuracies in car insurance company’s claim predictions raise the cost of insurance for good drivers and reduce the price for bad ones.
 In this project, you’re challenged to build a model that predicts the probability that a driver will initiate an auto insurance claim in the next year. While Porto Seguro has used machine learning for the past 20 years, they’re looking to Kaggle’s machine learning community to explore new, more powerful methods. A more accurate prediction will allow them to further tailor their prices, and hopefully make auto insurance coverage more accessible to more drivers.
 
-[NLP classification chatbot](https://github.com/adrien50/NLPclassification-chatbot)
+# [NLP classification chatbot](https://github.com/adrien50/NLPclassification-chatbot)
 
 Human language is astoundingly complex and diverse. When we write, we often misspell or abbreviate words, or omit punctuation. There is a lot of unstructured data around us. Natural language processing helps computers communicate with humans in their own language and scales other language-related tasks. NLP makes it possible for computers to read text, interpret it, measure sentiment and determine which parts are important.
 
 Understanding this will enable us to build the core component of any conversational chatbot. In this NLP application we will create the core engine of a chat bot. We will learn text classification using the techniques of natural language processing by using the nltk library.
+
+# [Home Credit Default Risk project. Can you predict how capable each applicant is of repaying a loan?](https://github.com/adrien50/home-loancredit-risk)
+
+Many people struggle to get loans due to insufficient or non-existent credit histories. And, unfortunately, this population is often taken advantage of by untrustworthy lenders. Home Credit strives to broaden financial inclusion for the unbanked population by providing a positive and safe borrowing experience. In order to make sure this underserved population has a positive loan experience, Home Credit makes use of a variety of alternative data--including telco and transactional information--to predict their clients' repayment abilities.
+
+While Home Credit is currently using various statistical and machine learning methods to make these predictions, they're challenging Kagglers to help them unlock the full potential of their data. Doing so will ensure that clients capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful.
 
 
 
