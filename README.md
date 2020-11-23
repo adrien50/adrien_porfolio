@@ -81,6 +81,8 @@ This project walks you through a complete end-to-end cycle of a data science pro
 
 In this project, we will be using the customer data of a telecom sector company based in the US to predict the probability of churn for each of the customer. We will look at the standard practices that are followed in the industry to solve these problems and also go beyond just those techniques. We have chosen the telecom company data for the churn problem as it is a major area of concern for companies in that sector. Once we have built a model, the churn model output can also be used as a warning indicator that some customers are likely to churn. The key drivers that are making the customer more likely to churn can be alleviated and ensure that the customers are actually retained.
 
+
+
  
  
 
