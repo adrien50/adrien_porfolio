@@ -52,6 +52,11 @@ Many people struggle to get loans due to insufficient or non-existent credit his
 
 While Home Credit is currently using various statistical and machine learning methods to make these predictions, they're challenging Kagglers to help them unlock the full potential of their data. Doing so will ensure that clients capable of repayment are not rejected and that loans are given with a principal, maturity, and repayment calendar that will empower their clients to be successful.
 
+# [Machine Learning project for Retail Price Optimization](https://github.com/adrien50/Retail-Price-Optimization)
+
+Pricing a product is a crucial aspect in any business. A lot of thought process is put into it. There are different strategies to price different kinds of products. There are products whose sales are quite sensitive to their prices and as such a small change in their price can lead to noticeable change in their sales. While there are products whose sales are not much affected by their price - these tend to be either luxury items or necessities (like certain medicines). This machine learning retail price optimization project will focus on the former type of products.
+In this machine learning pricing optimization case study, we will take the data of a cafe and based on their past sales, identify the optimal prices for their items based on the price elasticity of the items. For each item, first the price elasticity will be calculated and then the optimal price will be figured. While this is taking a particular cafe data, this work can be extended to price any product.
+
 
 
 
