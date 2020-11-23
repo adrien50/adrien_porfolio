@@ -29,4 +29,23 @@ SYL bank is one of Australia's largest banks. Currently, the loan applications w
 
 In this ML problem, we will building a classification model as we have to predict if an applicant should get a loan or not. We will look at various factors of the applicant like credit score, past history and from those we will try to predict the loan granting status. We will also cleanse the data and fill in the missing values so that our ML model performs as expected. Thus we will be giving out a probability score along with Loan Granted or Loan Refused output from the model.
 
+# [Modeling Earthquake Damage](https://github.com/adrien50/earthquake-damage-pridiction)
+
+Based on aspects of building location and construction, your goal is to predict the level of damage to buildings caused by the 2015 Gorkha earthquake in Nepal. The data was collected through surveys by Kathmandu Living Labs and the Central Bureau of Statistics, which works under the National Planning Commission Secretariat of Nepal.
+This survey is one of the largest post-disaster datasets ever collected, containing valuable information on earthquake impacts, household conditions, and socio-economic-demographic statistics.
+
+[Porto Seguro’s Safe Driver Prediction.](https://github.com/adrien50/Porto-Seguro-s-Safe-Driver-Prediction)
+
+Nothing ruins the thrill of buying a brand new car more quickly than seeing your new insurance bill. The sting’s even more painful when you know you’re a good driver. It doesn’t seem fair that you have to pay so much if you’ve been cautious on the road for years.
+Porto Seguro, one of Brazil’s largest auto and homeowner insurance companies, completely agrees. Inaccuracies in car insurance company’s claim predictions raise the cost of insurance for good drivers and reduce the price for bad ones.
+In this project, you’re challenged to build a model that predicts the probability that a driver will initiate an auto insurance claim in the next year. While Porto Seguro has used machine learning for the past 20 years, they’re looking to Kaggle’s machine learning community to explore new, more powerful methods. A more accurate prediction will allow them to further tailor their prices, and hopefully make auto insurance coverage more accessible to more drivers.
+
+[NLP classification chatbot](https://github.com/adrien50/NLPclassification-chatbot)
+
+Human language is astoundingly complex and diverse. When we write, we often misspell or abbreviate words, or omit punctuation. There is a lot of unstructured data around us. Natural language processing helps computers communicate with humans in their own language and scales other language-related tasks. NLP makes it possible for computers to read text, interpret it, measure sentiment and determine which parts are important.
+
+Understanding this will enable us to build the core component of any conversational chatbot. In this NLP application we will create the core engine of a chat bot. We will learn text classification using the techniques of natural language processing by using the nltk library.
+
+
+
 
