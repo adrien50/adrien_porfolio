@@ -76,6 +76,11 @@ A well-known bank has been observing a lot of customers closing their accounts o
 In this machine learning churn prediction project, we are provided with customer data pertaining to his past transactions with the bank and some demographic information. We use this to establish relations/associations between data features and customer's propensity to churn and build a classification model to predict whether the customer will leave the bank or not. We also go about explaining model predictions through multiple visualizations and give insight into which factor(s) are responsible for the churn of the customers.
 
 This project walks you through a complete end-to-end cycle of a data science project in the banking industry, right from the deliberations during formation of the problem statement to making the model deployment-read
+
+# [Predict Churn for a Telecom company](https://github.com/adrien50/Telecom-churn)
+
+In this project, we will be using the customer data of a telecom sector company based in the US to predict the probability of churn for each of the customer. We will look at the standard practices that are followed in the industry to solve these problems and also go beyond just those techniques. We have chosen the telecom company data for the churn problem as it is a major area of concern for companies in that sector. Once we have built a model, the churn model output can also be used as a warning indicator that some customers are likely to churn. The key drivers that are making the customer more likely to churn can be alleviated and ensure that the customers are actually retained.
+
  
  
 
