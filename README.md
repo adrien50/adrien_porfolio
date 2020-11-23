@@ -17,3 +17,10 @@ In this problem, we have been given the sales data of 45 stores based on store, 
 # [Bigmart sales predictions](https://github.com/adrien50/Bigmartsales)
 
 The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined. The aim of this data science project is to build a predictive model and find out the sales of each product at a particular store. Using this model, BigMart will try to understand the properties of products and stores which play a key role in increasing sales. The data has missing values as some stores do not report all the data due to technical glitches. Hence, it will be required to treat them accordingly.
+
+
+# [Credit Card Fraud Detection](https://github.com/adrien50/creditcarddetection)
+
+Fraud detection, one of the many cases of anomaly detection is an important aspect of financial markets. Is there any way to predict whether a transaction is fraudulent or not based on the history of transactions? It is often that the data we retrieve have imbalanced label and we are asked to make classification. These scenarios are troublesome since not only the models we usally use bring poor result, but also the evaluation metric we often used, accuracy, is not adequate for imbalanced data sets due to the impact of the minority class. This project aims to demonstrate some techniques used to combat these situations, such as resampling or cluster before predicting, as well as using PR (Precision-Recall) curve to evaluate model.
+
+
