@@ -55,7 +55,20 @@ While Home Credit is currently using various statistical and machine learning me
 # [Machine Learning project for Retail Price Optimization](https://github.com/adrien50/Retail-Price-Optimization)
 
 Pricing a product is a crucial aspect in any business. A lot of thought process is put into it. There are different strategies to price different kinds of products. There are products whose sales are quite sensitive to their prices and as such a small change in their price can lead to noticeable change in their sales. While there are products whose sales are not much affected by their price - these tend to be either luxury items or necessities (like certain medicines). This machine learning retail price optimization project will focus on the former type of products.
+
 In this machine learning pricing optimization case study, we will take the data of a cafe and based on their past sales, identify the optimal prices for their items based on the price elasticity of the items. For each item, first the price elasticity will be calculated and then the optimal price will be figured. While this is taking a particular cafe data, this work can be extended to price any product.
+
+# [Human Activity Recognition](https://github.com/adrien50/Human-Activity-Recognition/blob/main/README.md)
+
+The project aims to detect whether the person is running or 
+walking based on deep neural network and sensor data collected 
+from iOS device.Currently, the dataset contains a single file 
+which represents 88588 sensor data samples collected from 
+accelerometer and gyroscope from iPhone 5c in 10 seconds interval 
+and ~5.4/second frequency. This data is represented by following 
+columns (each column contains sensor data for one of the sensor's
+ axes):
+
 
 
 
