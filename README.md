@@ -69,7 +69,7 @@ and ~5.4/second frequency. This data is represented by following
 columns (each column contains sensor data for one of the sensor's
  axes):
  
-# [Customer Churn Prediction Analysis using Ensemble Techniques](https://github.com/adrien50/Human-Activity-Recognition/blob/main/README.md)
+# [Customer Churn Prediction Analysis using Ensemble Techniques](https://github.com/adrien50/churnbanking)
 
 A well-known bank has been observing a lot of customers closing their accounts or switching to competitor banks over the past couple of quarters. This has caused a huge dent in their quarterly revenues and might drastically affect annual revenues for the ongoing financial year, causing stocks to plunge and market cap to reduce significantly. The idea is to be able to predict which customers are going to churn so that necessary actions/interventions can be taken by the bank to retain such customers.
 
