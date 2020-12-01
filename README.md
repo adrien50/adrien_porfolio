@@ -58,7 +58,7 @@ Pricing a product is a crucial aspect in any business. A lot of thought process 
 
 In this machine learning pricing optimization case study, we will take the data of a cafe and based on their past sales, identify the optimal prices for their items based on the price elasticity of the items. For each item, first the price elasticity will be calculated and then the optimal price will be figured. While this is taking a particular cafe data, this work can be extended to price any product.
 
-# [Human Activity Recognition](https://github.com/adrien50/Human-Activity-Recognition/blob/main/README.md)
+# [Human Activity Recognition](https://github.com/adrien50/Human-Activity-Recognition)
 
 The project aims to detect whether the person is running or 
 walking based on deep neural network and sensor data collected 
